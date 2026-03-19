@@ -1,9 +1,9 @@
 # 🚀 Restaurantly - Modern Restaurant Website
 
 > *🌐 Lien du site en direct :* [Cliquez ici pour voir le site](https://abdennour-tech.github.io/Restaurantly---Modern-Restaurant-Website/)
->
-> 
->[Screenshot]  https://github.com/Abdennour-Tech/Restaurantly---Modern-Restaurant-Website/blob/main/scrn.png?raw=true
+
+### 📸 Aperçu du projet
+![Capture d'écran du projet](scrn.png)
 
 Ceci est un projet de site web moderne pour un restaurant, réalisé avec une interface responsive et un système de réservation.
 
@@ -12,11 +12,11 @@ Ceci est un projet de site web moderne pour un restaurant, réalisé avec une in
 - *Système de Réservation :* Formulaire intégré pour la réservation de tables.
 - *Menu Dynamique :* Présentation claire des plats avec filtrage.
 - *Galerie Photo :* Affichage des photos du restaurant.
-- *Formulaire de Contact :* Système fonctionnel avec PHP pour recevoir les messages.
+- *Formulaire de Contact :* Système fonctionnel (Frontend).
 
 ## 🛠️ Technologies Utilisées
 - *Front-end :* HTML5, CSS3, JavaScript, Bootstrap.
-- *Back-end :* PHP (gestion des formulaires).
+- *Back-end :* PHP (Scripts de gestion).
 - *Design :* Google Fonts, Font Awesome.
 
 ## 📁 Structure du Projet

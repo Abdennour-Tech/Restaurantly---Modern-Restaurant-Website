@@ -3,7 +3,7 @@
 > *🌐 Lien du site en direct :* [Cliquez ici pour voir le site](https://abdennour-tech.github.io/Restaurantly---Modern-Restaurant-Website/)
 
 ### 📸 Aperçu du projet
-![Capture d'écran du projet](scrn.png)
+[![Capture d'écran du projet](scrn.png)](https://abdennour-tech.github.io/Restaurantly---Modern-Restaurant-Website/)
 
 Ceci est un projet de site web moderne pour un restaurant, réalisé avec une interface responsive et un système de réservation.
 
